@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E17"/>
+      <stop offset="1" stop-color="#1B2A5A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD866"/>
+      <stop offset="1" stop-color="#F0A500"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#FFC83D" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#FFC83D" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="t"><text x="430" y="188" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="112" font-weight="800">YildizTV</text></clipPath>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <circle cx="683" cy="91" r="3" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1117" cy="62" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="459" cy="33" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="512" cy="60" r="3" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="1213" cy="45" r="3" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="878" cy="87" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="390" cy="66" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="148" cy="302" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1108" cy="232" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="948" cy="199" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="519" cy="55" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="939" cy="161" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="883" cy="34" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="737" cy="268" r="3" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="572" cy="256" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="654" cy="242" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="730" cy="25" r="3" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="608" cy="80" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1036" cy="55" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+
+  <circle cx="230" cy="160" r="150" fill="url(#glow)">
+    <animate attributeName="r" values="130;165;130" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-7 230 160;7 230 160;-7 230 160" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>
+    <polygon points="230.0,48.0 257.0,122.8 336.5,125.4 273.7,174.2 295.8,250.6 230.0,206.0 164.2,250.6 186.3,174.2 123.5,125.4 203.0,122.8" fill="url(#gold)"/>
+    <polygon points="230.0,90.0 247.0,136.5 296.6,138.4 257.6,169.0 271.1,216.6 230.0,189.0 188.9,216.6 202.4,169.0 163.4,138.4 213.0,136.5" fill="#FFE59A" opacity="0.7"/>
+  </g>
+
+  <text x="430" y="188" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="112" font-weight="800" fill="#FFFFFF">Yildiz<tspan fill="#FFC83D">TV</tspan></text>
+  <g clip-path="url(#t)">
+    <rect x="300" y="60" width="90" height="170" fill="#fff" opacity="0.38" transform="skewX(-20)">
+      <animate attributeName="x" values="300;1100;1100" keyTimes="0;0.55;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="436" y="244" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#8A93AD" opacity="0">
+    Alle Sender. Direkt auf dem Fernseher.
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.4;1" dur="2.5s" fill="freeze"/>
+  </text>
+</svg>

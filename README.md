@@ -15,7 +15,7 @@ TV-App für Android TV, Fire TV und Android-Geräte. Senderlisten laden, Sender 
 | **YildizTRTV** | Türkçe | [⬇ YildizTRTV.apk](https://github.com/oemer0881/yildiztv/releases/latest/download/YildizTRTV.apk) |
 | **YildizRUTV** | Русский | [⬇ YildizRUTV.apk](https://github.com/oemer0881/yildiztv/releases/latest/download/YildizRUTV.apk) |
 
-Aktuelle Version: **1.4**. Alle Versionen findest du unter [Releases](https://github.com/oemer0881/yildiztv/releases). Jede neue Version bekommt einen eigenen Eintrag, ältere bleiben erhalten.
+Aktuelle Version: **1.6**. Alle Versionen findest du unter [Releases](https://github.com/oemer0881/yildiztv/releases). Jede neue Version bekommt einen eigenen Eintrag, ältere bleiben erhalten.
 
 ### Installation auf dem Fernseher
 1. APK auf einen USB-Stick kopieren oder mit der App *Downloader* über den Link oben laden.
@@ -26,7 +26,10 @@ Die Versionen lassen sich gleichzeitig installieren. Neue Versionen meldet die A
 
 ## Funktionen
 - Kachelansicht mit Senderlogos und Kanalnummern
-- Kategorien, Suche, Favoriten und „Zuletzt gesehen“
+- Themenkategorien (Nachrichten, Sport, Filme, Musik, Kinder …), Suche, Favoriten und „Zuletzt gesehen“
+- Live-Vorschau: Der markierte Sender läuft stumm im Vorschaufenster
+- Fünf Farbthemen unter „Design“
+- Bereiche „Filme“ und „Serien“ mit eigenen, selbst hinzufügbaren Listen
 - „Weiter“-Button für den letzten Sender
 - Vollbild mit schnellem Umschalten
 - Mehrere Senderlisten gleichzeitig, eigene M3U-Listen einstellbar

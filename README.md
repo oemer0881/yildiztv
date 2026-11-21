@@ -15,7 +15,7 @@ TV-App für Android TV, Fire TV und Android-Geräte. Senderlisten laden, Sender 
 | **YildizTRTV** | Türkçe | [⬇ YildizTRTV.apk](https://github.com/oemer0881/yildiztv/releases/latest/download/YildizTRTV.apk) |
 | **YildizRUTV** | Русский | [⬇ YildizRUTV.apk](https://github.com/oemer0881/yildiztv/releases/latest/download/YildizRUTV.apk) |
 
-Aktuelle Version: **1.9**. Alle Versionen findest du unter [Releases](https://github.com/oemer0881/yildiztv/releases). Jede neue Version bekommt einen eigenen Eintrag, ältere bleiben erhalten.
+Aktuelle Version: **1.9.1**. Alle Versionen findest du unter [Releases](https://github.com/oemer0881/yildiztv/releases). Jede neue Version bekommt einen eigenen Eintrag, ältere bleiben erhalten.
 
 ### Installation auf dem Fernseher
 1. APK auf einen USB-Stick kopieren oder mit der App *Downloader* über den Link oben laden.
